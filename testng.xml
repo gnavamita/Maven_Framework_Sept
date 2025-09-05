@@ -1,0 +1,10 @@
+<suite>
+    <classes>
+        <class name ="ui.GroupLoginTest"/>
+        <class name ="ui.LoginTest"/>
+        <class name ="ui.VerifyTitleTest"/>
+        <class name ="ui.GroupLoginTest2"/>
+        <class name ="ui.SkipDemoTest"/>
+
+    </classes>
+</suite>

@@ -1,0 +1,8 @@
+<suite name ="Suite setup and tesrdown">
+    <test name = "Test before suite and after suite">
+        <classes>
+            <class name = "ui.GroupLoginTest2"/>
+        </classes>
+    </test>
+
+</suite>
